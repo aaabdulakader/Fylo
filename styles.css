@@ -114,7 +114,7 @@ input {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
-  padding: 5rem 6rem;
+  padding: 10rem 6rem;
 }
 
 .t-content {
@@ -131,6 +131,8 @@ input {
 .testimonial-title {
   font-weight: 700;
   font-size: 2rem;
+  color: #070439;
+
 }
 
 .testimonial-description {
@@ -188,7 +190,7 @@ input {
 
 .cta-section {
   background-color: #585989;
-  padding: 6rem 0;
+  padding: 8rem 0;
   display: block;
 }
 
@@ -228,7 +230,7 @@ input {
 .footer-section {
   background-color: #070439;
   color: #fff;
-  padding: 4rem 0 2rem;
+  padding: 7rem 0 2rem;
 }
 
 .footer-logo {
